@@ -6,6 +6,6 @@
 
 #####  procure em extenções:
 
-  -[ ] eslint
-  -[ ] baixe dentro do seu vscode
-  -[ ] configure as regras
+  > eslint
+  > baixe dentro do seu vscode
+  > configure as regras
