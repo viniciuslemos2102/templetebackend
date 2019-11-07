@@ -23,7 +23,7 @@ class SessionController {
         email,
       },
       token: jwt.sign({ id }, '2ce6dbe200f62bf3da1dbcf2d0a2971a', {
-        expiresIn: '12d',
+        expiresIn: '7d',
       }),
     });
   }
